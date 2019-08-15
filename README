@@ -1,0 +1,10 @@
+Daniel Monarrez
+Job Scraping Program
+
+
+Created simple job scraping program using python library beautifulSoup to parse HTML tags within the
+job posting link. Specifically entry level postings.
+
+Program returns a small list of jobs with clickable links.
+
+To run: python job.py
